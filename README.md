@@ -19,4 +19,4 @@
 
 
 ### More info
-- A good artical to help you get started with OpenAi Gym is [here](#https://blog.paperspace.com/getting-started-with-openai-gym/)
+- A good artical to help you get started with OpenAi Gym is [here](https://blog.paperspace.com/getting-started-with-openai-gym/)
