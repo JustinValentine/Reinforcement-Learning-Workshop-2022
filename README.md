@@ -9,7 +9,7 @@
 ### Setting up the virtual enviorment kernel for Jupyter Notebook
 - First we need to install the following package `pip install --user ipykernel`
 - Next we need to add the kernel so we can have it in our Jupyter Notebook `python -m ipykernel install --user --name=OpenAiGym`
-- Later if you wanna remove the enverment later use `jupyter kernelspec uninstall myenv`
+- Later if you wanna remove the enverment use `jupyter kernelspec uninstall myenv`
 
 ### Installation
 - Firstly we need to install the base gym library `pip install gym` 
