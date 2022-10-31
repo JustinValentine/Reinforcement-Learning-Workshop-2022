@@ -15,7 +15,7 @@
 - Firstly we need to install the base gym library `pip install gym` 
 - Next we will need to install the atari enviorment dependences `pip install 'gym[atari]'`
 - You can freely download Atari 2600 roms [here](http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html) but the Breakout ROM that we will be using is provided 
-- Next we will use ALE to import our ROM `ale-import-roms roms/`
+- Next we will use ALE to import our ROM `ale-import-roms ROMS/`
 
 
 ### More info
