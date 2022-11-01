@@ -5,10 +5,12 @@
 #### Using Conda 
 - Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `conda create -n OpenAiGym python=3.9`
 - Next we will active our enviorment `conda activate OpenAiGym`
-- If you do not have miniconda installed you can get it [here](https://docs.conda.io/en/latest/miniconda.html) by typing the following comand into the terminal `python3 -m venv`
+- If you do not have miniconda installed you can get it [here](https://docs.conda.io/en/latest/miniconda.html) 
 
 #### Using venv
-- Lets create a new virtual enviorment to house our new project called **OpenAiGym** 
+- Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `python3 -m venv OpenAiGym-env`
+- To activate on **Windows** run: `OpenAiGym-env\Scripts\activate.bat`
+- To activate on **Unix or MacOS** run: `source OpenAiGym-env/bin/activate`
 
 ### Setting up the virtual enviorment kernel for Jupyter Notebook
 - First we need to install the following package `pip install --user ipykernel`
