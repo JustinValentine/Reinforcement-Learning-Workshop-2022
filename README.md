@@ -28,3 +28,4 @@ We will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard API for r
 
 ### More info
 - A good artical to help you get started with OpenAi Gym is [here](https://blog.paperspace.com/getting-started-with-openai-gym/)
+- Another atrical that was very helpfull in setting this up is [here](https://blog.devgenius.io/teaching-a-neural-network-to-play-the-breakout-game-793ad7d1b20e) 
