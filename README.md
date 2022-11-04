@@ -6,7 +6,7 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 # Installation & Setup
 ### Setting up the virtual envorment 
 #### Using Conda 
-- Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `conda create -n uais-rl python=3.9`
+- Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `conda create -n uais-rl python=3.7`
 - Next we will active our enviorment `conda activate uais-rl`
 - If you do not have miniconda installed you can get it [here](https://docs.conda.io/en/latest/miniconda.html) 
 
@@ -31,7 +31,7 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 ### Installation - Deep Reinforcement Learning 
 - Next install pytorch `conda install pytorch -c pytorch`
 - Next clone [this](https://github.com/facebookresearch/torchbeast) repo
-- and then all then all the requirements `pip install -r requirements.txt`
+- and then install all the requirements `pip install -r requirements.txt`
 - lastly `pip install 'stable-baselines3[extra]'` 
 
 ### More info
