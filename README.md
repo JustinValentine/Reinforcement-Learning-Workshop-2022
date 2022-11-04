@@ -6,8 +6,8 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 # Installation & Setup
 ### Setting up the virtual envorment 
 #### Using Conda 
-- Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `conda create -n OpenAiGym python=3.9`
-- Next we will active our enviorment `conda activate OpenAiGym`
+- Lets create a new virtual enviorment to house our new project called **OpenAiGym** by typing the following comand into the terminal `conda create -n uais-rl python=3.9`
+- Next we will active our enviorment `conda activate uais-rl`
 - If you do not have miniconda installed you can get it [here](https://docs.conda.io/en/latest/miniconda.html) 
 
 #### Using venv
