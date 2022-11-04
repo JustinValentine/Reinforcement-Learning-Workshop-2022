@@ -1,6 +1,7 @@
 # Reinforcement-Learning-Workshop-2022
+The accompanying slides are [here](https://docs.google.com/presentation/d/1mvGdp7hg0sJhwTD7Dr4b7YCOmsuGGPXnZuCEL-GLZZY/edit#slide=id.p)
 
-We will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard API for reinforcement learning with a lot of built in environments
+In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard API for reinforcement learning with a lot of built in environments
 
 # Installation & Setup
 ### Setting up the virtual envorment 
