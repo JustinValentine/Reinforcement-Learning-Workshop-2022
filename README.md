@@ -30,6 +30,7 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 - and lastly install cv2 `pip install opencv-python`
 ### Installation - Deep Reinforcement Learning 
 - Next install pytorch `conda install pytorch -c pytorch`
+- Next clone [this](https://github.com/facebookresearch/torchbeast) repo
 - and then all then all the requirements `pip install -r requirements.txt`
 - lastly `pip install 'stable-baselines3[extra]'` 
 
