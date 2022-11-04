@@ -18,7 +18,7 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 ### Setting up the virtual enviorment kernel for Jupyter Notebook
 - Firstly lets install Jupyter Notebook `pip install notebook`
 - First we need to install the following package `pip install --user ipykernel`
-- Next we need to add the kernel so we can have it in our Jupyter Notebook `python -m ipykernel install --user --name=OpenAiGym`
+- Next we need to add the kernel so we can have it in our Jupyter Notebook `python -m ipykernel install --user --name=uais-rl`
 - Later if you wanna remove the enverment use `jupyter kernelspec uninstall myenv`
 
 ### Installation - Notebook Only 
