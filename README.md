@@ -20,15 +20,15 @@ We will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard API for r
 - Later if you wanna remove the enverment use `jupyter kernelspec uninstall myenv`
 
 ### Installation
-- Firstly we need to install the base gym library `pip install gym` 
-- Next we will need to install the atari enviorment dependences `pip install 'gym[atari]'`
+- Firstly lets install Jupyter Notebook `pip install notebook`
+- Next we need to install the base gym library `pip install gym` 
+- We will  also need to install the atari enviorment dependences `pip install 'gym[atari]'`
 - You can freely download Atari 2600 roms [here](http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html) but the Breakout ROM that we will be using is provided 
 - Next we will use ALE to import our ROM `ale-import-roms ROMS/`
 - Next install imageio for capturing our image frames `pip install imageio`
 #### Installing pytorch
 - Next install pytorch `conda install pytorch -c pytorch`
 - and then all then all the requirements `pip install -r requirements.txt` 
-
 
 ### More info
 - A good artical to help you get started with OpenAi Gym is [here](https://blog.paperspace.com/getting-started-with-openai-gym/)
