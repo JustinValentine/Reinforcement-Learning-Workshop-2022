@@ -16,12 +16,12 @@ In this demo will be using [OpenAi Gym](https://www.gymlibrary.dev/), a standard
 - To activate on **Unix or MacOS** run: `source OpenAiGym-env/bin/activate`
 
 ### Setting up the virtual enviorment kernel for Jupyter Notebook
+- Firstly lets install Jupyter Notebook `pip install notebook`
 - First we need to install the following package `pip install --user ipykernel`
 - Next we need to add the kernel so we can have it in our Jupyter Notebook `python -m ipykernel install --user --name=OpenAiGym`
 - Later if you wanna remove the enverment use `jupyter kernelspec uninstall myenv`
 
 ### Installation - Notebook Only 
-- Firstly lets install Jupyter Notebook `pip install notebook`
 - Next we need to install the base gym library `pip install gym` 
 - We will  also need to install the atari enviorment dependences `pip install 'gym[atari]'`
 - You can freely download Atari 2600 roms [here](http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html) but the Breakout ROM that we will be using is provided 
